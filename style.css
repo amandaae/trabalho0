@@ -19,7 +19,13 @@
     display: flex;
     position: relative;
     left: 300px;
+}
+
+.cabecalho-lista-item{
+    font-size: 17px;
+    margin-left: 50px;
 
 
 }
+
 
